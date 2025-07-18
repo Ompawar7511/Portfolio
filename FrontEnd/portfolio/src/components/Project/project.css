@@ -30,3 +30,22 @@
   font-size: 16px;
   line-height: 1.6;
 }
+@media screen and (max-width:720px){
+    .project-heading {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.project-heading span {
+  font-weight: normal;
+}
+
+.project-details {
+  list-style-type: disc;
+  padding-left: 5px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+    
+}
